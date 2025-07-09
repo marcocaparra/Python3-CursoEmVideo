@@ -30,12 +30,11 @@ O curso é dividido em três partes chamadas de "Mundos":
 ```bash
 /
 ├── mundo-1/
-│   ├── aulaXX.py       # Anotações das aulas teóricas
-│   ├── exXXX.py         # Exercícios práticos numerados
-│   └── desafioXX.py     # Desafios do mundo 1
+│   ├── CLXX.py       # Anotações das aulas teóricas
+│   ├── EXXXX.py         # Exercícios práticos numerados
+│   └── CHXX.py     # Desafios do mundo 1
 ├── mundo-2/
-│   ├── aulaXX.py       # Anotações das aulas teóricas
-│   ├── exXXX.py         # Exercícios práticos numerados
-│   └── desafioXX.py     # Desafios do mundo 2
+│   ├── CLXX.py       # Anotações das aulas teóricas
+│   ├── EXXXX.py         # Exercícios práticos numerados
 └── README.md
 ```
