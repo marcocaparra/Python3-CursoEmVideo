@@ -4,7 +4,7 @@ Este repositório reúne **todo o meu progresso prático e teórico** nos dois p
 
 Aqui você encontra:
 
-- ✅ 71 exercícios resolvidos com base nos conteúdos das aulas
+- ✅ 100 exercícios resolvidos com base nos conteúdos das aulas
 - ✅ 2 desafios práticos com aplicação de lógica mais avançada
 - ✅ 📝 Anotações organizadas por aula, com explicações dos conceitos
 - ✅ Estrutura dividida por “mundos” do curso para facilitar a navegação
@@ -38,3 +38,10 @@ O curso é dividido em três partes chamadas de "Mundos":
 │   ├── EXXXX.py         # Exercícios práticos numerados
 └── README.md
 ```
+---
+
+## Progresso Atual
+
+- ✅ Concluído até a aula 20
+- ✅ Concluído até o exercício 100
+- 🧠 Último tema estudado: Funções em Python
