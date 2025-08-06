@@ -27,7 +27,6 @@ O curso é dividido em três partes chamadas de "Mundos":
 
 ## 📁 Organização dos Arquivos
 
-```bash
 /
 ├── mundo-1/
 │   ├── CLXX.py         # Anotações das aulas teóricas
