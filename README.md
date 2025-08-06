@@ -25,24 +25,6 @@ O curso é dividido em três partes chamadas de "Mundos":
 
 ---
 
-## 📁 Organização dos Arquivos
-
-/
-├── mundo-1/
-│   ├── CLXX.py         # Anotações das aulas teóricas
-│   ├── EXXXX.py        # Exercícios práticos numerados
-│   └── CHXX.py         # Desafios do Mundo 1
-├── mundo-2/
-│   ├── CLXX.py
-│   ├── EXXXX.py
-├── mundo-3/
-│   ├── CLXX.py
-│   ├── EXXXX.py
-│   └── ProjetoFinal/   # Projeto completo utilizando modularização
-└── README.md
-
----
-
 ## 🚀 Progresso Geral
 
 - ✅ Concluído até a **aula 23**
@@ -65,4 +47,4 @@ Este repositório representa não apenas uma trilha de aprendizado, mas uma fase
 ## 🌐 Autor
 
 **Marco Caparra**  
-📷 LinkedIn: [https://linkedin.com/in/marcocaparra](https://linkedin.com/in/marcocaparra)
+📷 LinkedIn: [https://linkedin.com/in/marcocaparra](https://www.linkedin.com/in/marco-caparra-b20b5a333/)
